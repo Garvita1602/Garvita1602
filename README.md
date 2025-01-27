@@ -35,7 +35,7 @@
   - Data Structures and Algorithms on [GFG](https://www.geeksforgeeks.org/user/garvitajhawar10/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [garvitajhawar10@gmail.com](mailto:garvitajhanwar10@gmail.com)
-- 📝 [Resume](https://docs.google.com/document/d/1iEMzCa-QDEdq6kL3mqF_kuxmMIH2q0xx/edit?usp=sharing&ouid=107742470863495930543&rtpof=true&sd=true).
+- 📝 [Resume](https://drive.google.com/file/d/10GLKt9p9yUuAYO-MHYphbpJLsOjQ08rB/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
